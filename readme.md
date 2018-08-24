@@ -27,42 +27,42 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Thrillers / Drama
 
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
-|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [21](http://www.imdb.com/title/tt0478087/)                                                 | Crime/Drama/Thriller      | 2008 | 6.8/10 |
-| [23](http://www.imdb.com/title/tt0126765/)                                                 | Thriller/Drama            | 1998 | 7.3/10 |
-| [Algorithm](http://www.imdb.com/title/tt3293462/)                                          | Crime/Drama/Thriller      | 2014 | 4.8/10 |
-| [Anonymous](http://www.imdb.com/title/tt3173594/)                                          | Crime/Drama/Thriller      | 2016 | 6.4/10 |
-| [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 |
-| [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 |
-| [Enemy of the State](http://www.imdb.com/title/tt0120660/)                                 | Thriller/Drama            | 1998 | 7.3/10 |
-| [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 |
-| [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
-| [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 |
-| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
-| [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
-| [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 |
-| [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
-| [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
-| [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 |
-| [Snowden](http://www.imdb.com/title/tt3774114/)                                            | Drama/Thriller            | 2016 | 7.3/10 |
-| [Source Code](http://www.imdb.com/title/tt0945513/)                                        | Drama/Thriller            | 2011 | 7.5/10 |
-| [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper Story/Thriller      | 2001 | 6.5/10 |
-| [Takedown](http://www.imdb.com/title/tt0159784/)                                           | Thriller/Drama            | 2000 | 6.3/10 |
-| [The Fifth Estate](http://www.imdb.com/title/tt1837703/)                                   | Thriller/Drama            | 2013 | 6.2/10 |
-| [The Girl with the Dragon Tattoo](http://www.imdb.com/title/tt1568346/)                    | Thriller/Drama            | 2011 | 7.8/10 |
-| [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
-| [The Net 2.0](http://www.imdb.com/title/tt0449077/)                                        | Thriller/Drama            | 2006 | 4.7/10 |
-| [The Net](http://www.imdb.com/title/tt0113957/)                                            | Thriller/Drama            | 1995 | 5.8/10 |
-| [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 |
-| [The Social Network](http://www.imdb.com/title/tt1285016/)                                 | Drama/History             | 2010 | 7.7/10 |
-| [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/)                               | Thriller/Mystery          | 1999 | 7.0/10 |
-| [Underground: The Julian Assange Story](http://www.imdb.com/title/tt2357453/)              | Drama/Biography           | 2012 | 6.8/10 |
-| [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
-| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 |
-| [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 |
-| [Who Am I](http://www.imdb.com/title/tt3042408/)                                           | Crime/Drama               | 2014 | 7.6/10 |
-| [The Circle](http://www.imdb.com/title/tt4287320/)                                         | Drama/Thriller            | 2017 | 5.3/10 |
+| MOVIE                                                                                      | GENRE                     | YEAR | RATING | WATCHED | OWN |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|---------|-----|
+| [21](http://www.imdb.com/title/tt0478087/)                                                 | Crime/Drama/Thriller      | 2008 | 6.8/10 | []      | []  |
+| [23](http://www.imdb.com/title/tt0126765/)                                                 | Thriller/Drama            | 1998 | 7.3/10 | []      | []  |
+| [Algorithm](http://www.imdb.com/title/tt3293462/)                                          | Crime/Drama/Thriller      | 2014 | 4.8/10 | []      | []  |
+| [Anonymous](http://www.imdb.com/title/tt3173594/)                                          | Crime/Drama/Thriller      | 2016 | 6.4/10 | []      | []  |
+| [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 | []      | []  |
+| [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 | []      | []  |
+| [Enemy of the State](http://www.imdb.com/title/tt0120660/)                                 | Thriller/Drama            | 1998 | 7.3/10 | []      | []  |
+| [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 | []      | []  |
+| [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 | []      | []  |
+| [I.T.](http://www.imdb.com/title/tt2679552/)                                               | Thriller/Drama/Crime      | 2016 | 5.4/10 | []      | []  |
+| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 |  []      | []  |
+| [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 | []      | []  |
+| [Office Space](http://www.imdb.com/title/tt0151804/)                                       | Romance/Comedy            | 1999 | 7.8/10 | []      | []  |
+| [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 | []      | []  |
+| [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 | []      | []  |
+| [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 | []      | []  |
+| [Snowden](http://www.imdb.com/title/tt3774114/)                                            | Drama/Thriller            | 2016 | 7.3/10 | []      | []  |
+| [Source Code](http://www.imdb.com/title/tt0945513/)                                        | Drama/Thriller            | 2011 | 7.5/10 | []      | []  |
+| [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper Story/Thriller      | 2001 | 6.5/10 | []      | []  |
+| [Takedown](http://www.imdb.com/title/tt0159784/)                                           | Thriller/Drama            | 2000 | 6.3/10 | []      | []  |
+| [The Fifth Estate](http://www.imdb.com/title/tt1837703/)                                   | Thriller/Drama            | 2013 | 6.2/10 | []      | []  |
+| [The Girl with the Dragon Tattoo](http://www.imdb.com/title/tt1568346/)                    | Thriller/Drama            | 2011 | 7.8/10 | []      | []  |
+| [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 | []      | []  |
+| [The Net 2.0](http://www.imdb.com/title/tt0449077/)                                        | Thriller/Drama            | 2006 | 4.7/10 | []      | []  |
+| [The Net](http://www.imdb.com/title/tt0113957/)                                            | Thriller/Drama            | 1995 | 5.8/10 | []      | []  |
+| [The Signal](http://www.imdb.com/title/tt2910814/)                                         | Thriller                  | 2014 | 6.1/10 | []      | []  |
+| [The Social Network](http://www.imdb.com/title/tt1285016/)                                 | Drama/History             | 2010 | 7.7/10 | []      | []  |
+| [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/)                               | Thriller/Mystery          | 1999 | 7.0/10 | []      | []  |
+| [Underground: The Julian Assange Story](http://www.imdb.com/title/tt2357453/)              | Drama/Biography           | 2012 | 6.8/10 | []      | []  |
+| [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 | []      | []  |
+| [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 | []      | []  |
+| [WarGames: The Dead Code](http://www.imdb.com/title/tt0865957/)                            | Thriller/Drama            | 2008 | 4.5/10 | []      | []  |
+| [Who Am I](http://www.imdb.com/title/tt3042408/)                                           | Crime/Drama               | 2014 | 7.6/10 | []      | []  |
+| [The Circle](http://www.imdb.com/title/tt4287320/)                                         | Drama/Thriller            | 2017 | 5.3/10 | []      | []  |
 
 ## Science Fiction / Fantasy
 
@@ -91,12 +91,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 ## Action
 
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
-|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
-| [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      | 2009 | 5.8/10 |
-| [Firewall](http://www.imdb.com/title/tt0408345/)                                           | Thriller/Action           | 2006 | 5.8/10 |
-| [Gamer](http://www.imdb.com/title/tt1034032/)                                              | Thriller/Action           | 2009 | 5.8/10 |
+| MOVIE                                                                                      | GENRE                     | YEAR | RATING | WATCHED | OWN |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|---------|-----|
+| [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 | []      | []  |
+| [Echelon Conspiracy](http://www.imdb.com/title/tt1124039/)                                 | Action/Crime/Mystery      | 2009 | 5.8/10 | []      | []  |
+| [Firewall](http://www.imdb.com/title/tt0408345/)                                           | Thriller/Action           | 2006 | 5.8/10 | []      | []  |
+| [Gamer](http://www.imdb.com/title/tt1034032/)                                              | Thriller/Action           | 2009 | 5.8/10 | []      | []  |
 | [Kung Fury](http://www.imdb.com/title/tt3472226/)                                          | Action/Comedy             | 2015 | 8.1/10 |
 | [Sneakers](http://www.imdb.com/title/tt0105435/)                                           | Thriller/Action           | 1992 | 7.1/10 |
 | [The Italian Job](http://www.imdb.com/title/tt0317740/)                                    | Thriller/Action           | 2003 | 7.0/10 |
