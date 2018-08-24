@@ -34,7 +34,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Algorithm](http://www.imdb.com/title/tt3293462/)                                          | Crime/Drama/Thriller      | 2014 | 4.8/10 | [ ]     | [ ] |
 | [Anonymous](http://www.imdb.com/title/tt3173594/)                                          | Crime/Drama/Thriller      | 2016 | 6.4/10 | [ ]     | [ ] |
 | [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 | [ ]     | [ ] |
-| [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 | [x]     | [ ] |
+| [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 | [ ]     | [x] |
 | [Enemy of the State](http://www.imdb.com/title/tt0120660/)                                 | Thriller/Drama            | 1998 | 7.3/10 | [ ]     | [x] |
 | [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 | [ ]     | [ ] |
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 | [x]     | [x] |
@@ -84,7 +84,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 | [ ]     | [ ] |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 | [ ]     | [ ] |
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 | [x]     | [x] |
-| [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 | [ ]     | [ ] |
+| [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 | [x]     | [x] |
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 | [ ]     | [ ] |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 | [ ]     | [ ] |
 
